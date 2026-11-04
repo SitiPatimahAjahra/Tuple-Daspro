@@ -15,3 +15,8 @@ print (b)
 print (c)
 print (d)
 print (e)
+
+print("Daftar buah:")
+
+for item in a:
+    print(item)
