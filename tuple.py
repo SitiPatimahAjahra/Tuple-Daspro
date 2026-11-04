@@ -4,6 +4,9 @@ x = list(a)
 x[3] = "melon"
 a = tuple(x)
 
+print("Hasil tuple: ")
+print(a)
+
 buah = ("apel", "belimbing", "ceri", "durian")
 (b, c, d, e) = buah
 print (b)
