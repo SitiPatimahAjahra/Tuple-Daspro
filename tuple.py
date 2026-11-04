@@ -7,6 +7,8 @@ a = tuple(x)
 print("Hasil tuple: ")
 print(a)
 
+print("Jumlah elemen buah:", len(a))
+
 buah = ("apel", "belimbing", "ceri", "durian")
 (b, c, d, e) = buah
 print (b)
